@@ -86,7 +86,7 @@ These allow users to filter all dashboard visuals simultaneously and perform int
 
 ### Insight 1
 
-Technology generated the highest sales and profit, making it the strongest-performing product category.
+Technology generated the highest sales, making it the strongest-performing product category.
 
 ### Insight 2
 
@@ -94,12 +94,12 @@ Sales show an overall upward trend with recurring declines around January, sugge
 
 ### Insight 3
 
-The West region generated the highest sales, while Central generated the lowest.
+The West region generated the highest sales, while South generated the lowest.
 
 
 ### Insight 4
 
-Higher discounts appear to be associated with lower and more variable profitability, suggesting that excessive discounting may reduce profit margins.
+Higher discounts appear to be associated with lower profitability, suggesting that excessive discounting may reduce profit margins.
 
 ---
 
@@ -108,8 +108,6 @@ Higher discounts appear to be associated with lower and more variable profitabil
 - Review the current discount strategy to ensure that discounts improve sales without unnecessarily reducing profitability.
 
 - Investigate the recurring January decline in sales and evaluate whether targeted seasonal promotions could increase demand.
-
-- Analyse the Furniture category to understand why relatively high sales generate comparatively lower profits.
 
 - Identify the factors contributing to the West region's strong performance and assess whether similar strategies can be applied in lower-performing regions.
 
