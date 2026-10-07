@@ -47,10 +47,9 @@ These KPIs update dynamically when filters or slicers are applied, allowing user
 
 ## Sales and Profit by Product Category
 
-This chart compares total sales and total profit across the three product categories.
+This chart compares total sales across the three product categories.
 
-Its purpose is to identify which categories generate the highest revenue and whether high sales also translate into high profitability.
-
+Its purpose is to identify which categories generate the highest revenue
 
 
 ## Sales by Region
